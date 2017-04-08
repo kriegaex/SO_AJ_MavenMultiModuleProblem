@@ -122,9 +122,9 @@
   </dependencyManagement>
 
   <modules>
-    <module>aspect</module>
     <module>common</module>
     <module>application</module>
+    <module>aspect</module>
   </modules>
 
 </project>
